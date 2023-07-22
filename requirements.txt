@@ -2,3 +2,4 @@ altair
 pandas
 streamlit
 opencv-contrib-python
+Pillow>=8.1.2
