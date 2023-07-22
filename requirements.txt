@@ -2,5 +2,6 @@ altair
 pandas
 streamlit
 numpy
+tensorflow
 opencv-python==4.8.0.74
 
